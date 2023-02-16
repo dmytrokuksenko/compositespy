@@ -6,6 +6,8 @@ CompositesPy is a software for the analysis of fiber-reinforced plastic (FRP) co
 
 ### References
 
-[1]	I. Daniel and O. Ishai, Engineering mechanics of Composite Materials. Delhi, India: Oxford University Press, 2007. 
+[1]	I. Daniel and O. Ishai, Engineering mechanics of Composite Materials. Delhi, India: Oxford University Press, 2007.
+
 [2] Joaopbernhardt, “Joaopbernhardt/lamipy: Composite laminates engineering simulations in python.,” GitHub. [Online]. Available: https://github.com/joaopbernhardt/lamipy. [Accessed: 16-Feb-2023]. 
+
 [3] E. Barbero, Finite element analysis of composite materials using Abaqus. Boca Raton, FL: CRC Press/Taylor &amp; Francis Group, 2013. 
