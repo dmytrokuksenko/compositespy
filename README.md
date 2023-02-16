@@ -6,7 +6,7 @@ CompositesPy is a software for the analysis of fiber-reinforced plastic (FRP) co
 
 1. Laminate properties (via Classical Lamination Theory)
 2. Ply-by-ply and effective stress/strain
-3. First ply failure/Ultimate Strength
+3. First ply failure and ultimate strength (Hoffman, Tsai-Wu, LaRC05)
 4. Failure envelope
 5. Fatigue analysis
 6. Bolted joints analysis
