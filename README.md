@@ -2,7 +2,15 @@
 
 CompositesPy is a software for the analysis of fiber-reinforced plastic (FRP) composite laminates.   
 
-### Design of FRP laminates using the Classical Lamination Theory (CLT)
+### TODO
+
+1. Laminate properties (via Classical Lamination Theory)
+2. Ply-by-ply and effective stress/strain
+3. First ply failure/Ultimate Strength
+4. Failure envelope
+5. Fatigue analysis
+6. Bolted joints analysis
+7. Bonded joints analysis
 
 ### References
 
